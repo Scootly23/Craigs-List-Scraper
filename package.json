@@ -1,0 +1,23 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "Template for new node.js projecwebserver projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott St. Amant",
+  "license": "ISC",
+  "dependencies": {
+    "bitly": "^5.0.12",
+    "child_process": "^1.0.2",
+    "express": "^4.15.3",
+    "firebase": "^4.1.2",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "nodemailer": "1.11.0",
+    "path": "^0.12.7",
+    "rss-parser": "^2.9.0",
+    "xml2js": "^0.4.17"
+  }
+}

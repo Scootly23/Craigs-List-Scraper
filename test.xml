@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:enc="http://purl.oclc.org/net/rss_2.0/enc#"
+ xmlns:ev="http://purl.org/rss/1.0/modules/event/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="https://minneapolis.craigslist.org/search/apa?availabilityMode=0&#x26;format=rss&#x26;max_price=1100&#x26;postal=55408&#x26;search_distance=2">
+<title>craigslist minneapolis | apts/housing for rent search </title>
+<link>https://minneapolis.craigslist.org/search/apa?availabilityMode=0&#x26;max_price=1100&#x26;postal=55408&#x26;search_distance=2</link>
+<description></description>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:publisher>robot@craigslist.org</dc:publisher>
+<dc:creator>robot@craigslist.org</dc:creator>
+<dc:source>https://minneapolis.craigslist.org/search/apa?availabilityMode=0&#x26;format=rss&#x26;max_price=1100&#x26;postal=55408&#x26;search_distance=2</dc:source>
+<dc:title>craigslist minneapolis | apts/housing for rent search </dc:title>
+<dc:type>Collection</dc:type>
+<syn:updateBase>2017-06-13T10:22:08-05:00</syn:updateBase>
+<syn:updateFrequency>6</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://stcloud.craigslist.org/apa/6167116385.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6144296718.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6162972233.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6167658792.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6164595430.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6174729973.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6154565047.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6137917910.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6174506196.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6174425337.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6174399975.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6174342109.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6174325198.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6174317757.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6158783079.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6174203039.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6169839259.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6174071558.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6163728333.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6147585017.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6173985898.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6173944171.html" />
+  <rdf:li rdf:resource="http://minneapolis.craigslist.org/hnp/apa/6163128399.html" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://stcloud.craigslist.org/apa/6167116385.html">
+<title><![CDATA[✯ EVICTION? BAD CREDIT? WE CAN GET YOU APPROVED. (Cannon Falls) &#x0024;600 3bd 1432ft<sup>2</sup>]]></title>
+<link>http://stcloud.craigslist.org/apa/6167116385.html</link>
+<description><![CDATA[When attempting to rent a brand new apartment or property, among the most significant variables when establishing approval is your credit rating. If you have had trouble getting approved for a lease or purchase of a house, it is likely because of a p [...]]]></description>
+<dc:date>2017-06-13T09:14:17-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://stcloud.craigslist.org/apa/6167116385.html</dc:source>
+<dc:title><![CDATA[✯ EVICTION? BAD CREDIT? WE CAN GET YOU APPROVED. (Cannon Falls) &#x0024;600 3bd 1432ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-06-13T09:14:17-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6144296718.html">
+<title><![CDATA[Spacious 1BR Available July 1st!!! Great Uptown Location!!! (Uptown Minneapolis) &#x0024;975 1bd 750ft<sup>2</sup>]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6144296718.html</link>
+<description><![CDATA[Newly remodeled 1 bedroom unit on the 2nd floor, in a quite 12 unit apartment building. Wood floors in kitchen and living room. Located just 4 blocks from Lake Calhoun &amp; 4 blocks from Calhoun Square. Great location!!! 
+AVAILABLE July 1st!!!! 
+Pet [...]]]></description>
+<dc:date>2017-06-13T09:06:36-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6144296718.html</dc:source>
+<dc:title><![CDATA[Spacious 1BR Available July 1st!!! Great Uptown Location!!! (Uptown Minneapolis) &#x0024;975 1bd 750ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00000_hEruh79ALFM_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-13T09:06:36-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6162972233.html">
+<title><![CDATA[Near Lake Calhoun and Calhoun Square Studio Avail. July 1st Wood floor (Uptown) &#x0024;825]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6162972233.html</link>
+<description><![CDATA[Classic LARGE Studio with Hardwood Floors. Beautiful quiet neighborhood, with Apt. Only a few Blocks to Lake Calhoun .. Apt. with updates, Shared Laundry... Heat, Water and Trash are Paid. Walk to shops and restaurants Off Street Parking. .Heated Und [...]]]></description>
+<dc:date>2017-06-13T08:52:04-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6162972233.html</dc:source>
+<dc:title><![CDATA[Near Lake Calhoun and Calhoun Square Studio Avail. July 1st Wood floor (Uptown) &#x0024;825]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00e0e_gCrNBQInmRK_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-13T08:52:04-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6167658792.html">
+<title><![CDATA[By Lake Calhoun Large Studio  Avail.  July 1st Large kitchen Near Lake (Uptown) &#x0024;825]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6167658792.html</link>
+<description><![CDATA[Classic Large Studio. Hardwood Floors. ( Lots of space). Many windows, Large kitchen and dining area with built ins. Beautiful quiet neighborhood, . Apt. with updates, Shared Laundry , Water and Trash are Paid. Walk to shops and restaurants Phone 952 [...]]]></description>
+<dc:date>2017-06-13T08:51:39-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6167658792.html</dc:source>
+<dc:title><![CDATA[By Lake Calhoun Large Studio  Avail.  July 1st Large kitchen Near Lake (Uptown) &#x0024;825]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-06-13T08:51:39-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6164595430.html">
+<title><![CDATA[By Lake Calhoun and Calhoun Square Studio Avail. July 1st By Park Bus (Uptown) &#x0024;825]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6164595430.html</link>
+<description><![CDATA[Classic LARGE Studio with Hardwood Floors. Beautiful quiet neighborhood, with Apt. Only a few Blocks to Lake Calhoun .. Apt. with updates, Shared Laundry... Heat, Water and Trash are Paid. Walk to shops and restaurants Off Street Parking. Phone 952-7 [...]]]></description>
+<dc:date>2017-06-13T08:50:57-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6164595430.html</dc:source>
+<dc:title><![CDATA[By Lake Calhoun and Calhoun Square Studio Avail. July 1st By Park Bus (Uptown) &#x0024;825]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00e0e_gCrNBQInmRK_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-13T08:50:57-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6174729973.html">
+<title><![CDATA[$1065 / 1 BR - NEW Remodeled Sunny 1 Bedroom near Lake Calhoun! (Uptown) &#x0024;1065 1bd 600ft<sup>2</sup>]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6174729973.html</link>
+<description><![CDATA[Westwood Apartments and CPM Companies are pleased to announce our newly renovated apartments available for leasing today! Featuring new carpet/flooring, brand new cabinets, and stainless steel appliances (including a dishwasher, newly installed light [...]]]></description>
+<dc:date>2017-06-13T07:59:56-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6174729973.html</dc:source>
+<dc:title><![CDATA[$1065 / 1 BR - NEW Remodeled Sunny 1 Bedroom near Lake Calhoun! (Uptown) &#x0024;1065 1bd 600ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00202_28Vnmxxabaq_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-13T07:59:56-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6154565047.html">
+<title><![CDATA[Eat Street Top Floor 1BR Apartment for July 1 (26 West 22nd Street) &#x0024;840 1bd 588ft<sup>2</sup>]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6154565047.html</link>
+<description><![CDATA[1Bedroom Apartment - 26 West 22nd Street Apt. #308 - Minneapolis, 55404 
+To view this apartment please contact Mikayla, the building caretaker, at 
+ <a href="/fb/min/apa/6154565047" class="showcontact" title="click to show contact info">show contact info</a>
+or Pierce at 
+ <a href="/fb/min/apa/6154565047" class="showcontact" title="click to show contact info">show contact info</a>
+ 
+$840.00/month 
+Rent includes heat, gas for the range and trash [...]]]></description>
+<dc:date>2017-06-13T07:47:14-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6154565047.html</dc:source>
+<dc:title><![CDATA[Eat Street Top Floor 1BR Apartment for July 1 (26 West 22nd Street) &#x0024;840 1bd 588ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00x0x_7G2MJecoDyH_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-13T07:47:14-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6137917910.html">
+<title><![CDATA[$495 One and two Rm Studio in loring Pk on Hennepin & 15St DO NOT REN (Loring Park) &#x0024;495]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6137917910.html</link>
+<description><![CDATA[***WARNING*** DO NOT RENT FROM THIS PLACE!! IT IS FULL OF BEDBUGS, ROACHES, MICE, DRUG DEALERS, HOMELESS PEOPLE THAT GET IN AND SLEEP IN THE HALLWAYS AND BATHROOMS AND LAUNDRY ROOM! THE OWNER OF THE BUILDING IS AN ASSHOLE AND HAS NO ISSUES WITH EVICT [...]]]></description>
+<dc:date>2017-06-13T06:33:09-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6137917910.html</dc:source>
+<dc:title><![CDATA[$495 One and two Rm Studio in loring Pk on Hennepin & 15St DO NOT REN (Loring Park) &#x0024;495]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-06-13T06:33:09-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6174506196.html">
+<title><![CDATA[South Minneapolis 2 Bedroom Duplex, Great Location (South Minneapolis) &#x0024;995 2bd 900ft<sup>2</sup>]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6174506196.html</link>
+<description><![CDATA[Spacious 2 Bedroom Duplex! 
+2BD | 1BA | $995 /mo | 890 sq ft 8-5-2017
+- 3205 - 18th Ave. S. #2, Minneapolis, MN 55407 
+Schedule agent showing: 
+http://rently.com/properties/345997/appointmentContact Us 
+PRO Realty Services 
+
+ <a href="/fb/min/apa/6174506196" class="showcontact" title="click to show contact info">show contact info</a>
+- property
+ [...]]]></description>
+<dc:date>2017-06-13T00:20:56-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6174506196.html</dc:source>
+<dc:title><![CDATA[South Minneapolis 2 Bedroom Duplex, Great Location (South Minneapolis) &#x0024;995 2bd 900ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00G0G_g2jJkETId4d_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-13T00:20:56-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6174425337.html">
+<title><![CDATA[Minnepolis Downtown: SEPT 1ST // Clean, Quiet, Smoke Free (1501 PORTLAND AVE. S.) &#x0024;1000 1bd 650ft<sup>2</sup>]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6174425337.html</link>
+<description><![CDATA[ANSWER THIS ADVERTISEMENT or CALL 
+ <a href="/fb/min/apa/6174425337" class="showcontact" title="click to show contact info">show contact info</a>
+
+AVAILABILITY: One-bedroom apartments, 600-650 sq ft Lots of closet space, One year lease Starting: 
+Sept 1st - $1000 
+INCLUDED: 
+FREE WIRELESS INTERNET - Apple express routers throughout, fast service t [...]]]></description>
+<dc:date>2017-06-12T22:20:06-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6174425337.html</dc:source>
+<dc:title><![CDATA[Minnepolis Downtown: SEPT 1ST // Clean, Quiet, Smoke Free (1501 PORTLAND AVE. S.) &#x0024;1000 1bd 650ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00f0f_aEbdVezPggZ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-12T22:20:06-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6174399975.html">
+<title><![CDATA[Uptown studio, clean, classic, lovely (3440 Colfax Ave. S., Mpls.) &#x0024;880 470ft<sup>2</sup>]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6174399975.html</link>
+<description><![CDATA[Sunny, clean, classic studio for 1 by Uptown and Lake Calhoun. Bathroom was just renovated with new tub/shower, sink, window, tile, hardware. $880 includes heat, water, and trash. Refinished wood floors and natural woodwork. Renovated kitchen with cu [...]]]></description>
+<dc:date>2017-06-12T21:50:53-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6174399975.html</dc:source>
+<dc:title><![CDATA[Uptown studio, clean, classic, lovely (3440 Colfax Ave. S., Mpls.) &#x0024;880 470ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/01212_bzivmCycC9j_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-12T21:50:53-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6174342109.html">
+<title><![CDATA[Corner unit one bedroom (Stevens Square) &#x0024;865 1bd 530ft<sup>2</sup>]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6174342109.html</link>
+<description><![CDATA[1BR / 1Ba 530ft2 available July 2nd 
+cats are OK - purrr 
+dogs are OK - wooof 
+apartment 
+laundry in bldg 
+street parking 
+Act fast! This unit will go quickly! 
+To apply: http://www.apartmentshop.biz/application-quick-start 
+Address applying for is 1 [...]]]></description>
+<dc:date>2017-06-12T20:50:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6174342109.html</dc:source>
+<dc:title><![CDATA[Corner unit one bedroom (Stevens Square) &#x0024;865 1bd 530ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00P0P_cfqSdhdCPYd_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-12T20:50:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6174325198.html">
+<title><![CDATA[Beautiful quiet 1 BR on Nicollet (S Mpls / Lyndale Neighborhood) &#x0024;945 1bd 750ft<sup>2</sup>]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6174325198.html</link>
+<description><![CDATA[Lovely 1 BR in 4 plex 
+2nd floor 
+Free off-street parking in rear 
+Coin-op laundry in basement 
+Owner pays heat, water, sewage, garbage, tenant pays electricity and cooking gas and $50/month heat stipend Only during winter months 
+Great landlords 
+On [...]]]></description>
+<dc:date>2017-06-12T20:33:53-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6174325198.html</dc:source>
+<dc:title><![CDATA[Beautiful quiet 1 BR on Nicollet (S Mpls / Lyndale Neighborhood) &#x0024;945 1bd 750ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<dcterms:issued>2017-06-12T20:33:53-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6174317757.html">
+<title><![CDATA[Large 1 bedroom available August 1 (South Minneapolis) &#x0024;880 1bd]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6174317757.html</link>
+<description><![CDATA[Large one bedroom in a great location near city lakes, awesome restaurants, bus lines, etc. hardwood floors, tons of storage, great neighbors! Available August 1.]]></description>
+<dc:date>2017-06-12T20:26:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6174317757.html</dc:source>
+<dc:title><![CDATA[Large 1 bedroom available August 1 (South Minneapolis) &#x0024;880 1bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00w0w_b1Cgcnq4mX3_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-12T20:26:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6158783079.html">
+<title><![CDATA[Aug: Dog friendly studio in Brownstone w/ ALL basic utilities paid! (1937 Aldrich Ave S) &#x0024;900 500ft<sup>2</sup>]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6158783079.html</link>
+<description><![CDATA[AVAILABLE AUGUST 1ST 
+East facing studio in a beautiful old Brownstone...tons of Uptown charm and a really unique space! 
+APARTMENT INFO 
+------------------------------------------ 
+2nd floor unit 
+Hardwood floors and gorgeous vintage fireplace (non- [...]]]></description>
+<dc:date>2017-06-12T18:49:34-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6158783079.html</dc:source>
+<dc:title><![CDATA[Aug: Dog friendly studio in Brownstone w/ ALL basic utilities paid! (1937 Aldrich Ave S) &#x0024;900 500ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00O0O_f7JDG618hIm_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-12T18:49:34-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6174203039.html">
+<title><![CDATA[1 BR in uptown/wedge 3 Plex (25th Lyndale S.) &#x0024;875 1bd]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6174203039.html</link>
+<description><![CDATA[Old world charm and character galore in this smaller one bedroom situated in the middle of where it is all happening! 
+Subway tile with the cool trimwork in the brand-new remodeled bathroom. 
+Beamed high ceilings, Leaded glass, Bay window, built-in,  [...]]]></description>
+<dc:date>2017-06-12T18:45:09-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6174203039.html</dc:source>
+<dc:title><![CDATA[1 BR in uptown/wedge 3 Plex (25th Lyndale S.) &#x0024;875 1bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00Q0Q_8UzPizR3eUQ_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-12T18:45:09-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6169839259.html">
+<title><![CDATA[UPTOWN 1br Condo, reserved parking $1050 Move in NOW (2616 Harriet Ave. So.) &#x0024;1050 1bd 700ft<sup>2</sup>]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6169839259.html</link>
+<description><![CDATA[Contact info: John | Community Partners, LLC | 
+ <a href="/fb/min/apa/6169839259" class="showcontact" title="click to show contact info">show contact info</a>
+Uptown $1050 with Parking. 1br - Large Condo Immediate Occupancy 2616 Harriet Ave S 1st Floor, Minneapolis, MN 55408 $1,050/mo KEY FEATURES Year Built: 1970 Sq Footage: 700 sqft. Bedrooms: 1 [...]]]></description>
+<dc:date>2017-06-12T17:41:47-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6169839259.html</dc:source>
+<dc:title><![CDATA[UPTOWN 1br Condo, reserved parking $1050 Move in NOW (2616 Harriet Ave. So.) &#x0024;1050 1bd 700ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00W0W_9eHyhwZcvtw_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-12T17:41:47-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6174071558.html">
+<title><![CDATA[August 1, deck, SS appliances, large bedroom, vaulted kitchen (Lynn Lake/ Uptown) &#x0024;1025 1bd 780ft<sup>2</sup>]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6174071558.html</link>
+<description><![CDATA[deck 
+stainless steel appliances 
+beautiful woodwork 
+open 8/1/17 
+vaulted ceiling in kitchen 
+cats welcome with $350 non refundable deposit 
+tenant pays internet and electric (wired for US internet) 
+Owner of building pays for heat, cooking gas, gar [...]]]></description>
+<dc:date>2017-06-12T17:05:13-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6174071558.html</dc:source>
+<dc:title><![CDATA[August 1, deck, SS appliances, large bedroom, vaulted kitchen (Lynn Lake/ Uptown) &#x0024;1025 1bd 780ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00O0O_4s638mQ7ki5_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-12T17:05:13-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6163728333.html">
+<title><![CDATA[The Commodore Apartments, Minutes to Downtown, Sunny, Great Storage! (Minneapolis) &#x0024;795 375ft<sup>2</sup>]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6163728333.html</link>
+<description><![CDATA[The COMMODORE APARTMENTS!!! 
+Family-owned and Operated for over 30 years! Nestled in the beautiful Loring Park community, a surprise...this building filled with grace and charm has many updated amenities to offer for today's Cosmopolitan City Dweller [...]]]></description>
+<dc:date>2017-06-12T17:02:42-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6163728333.html</dc:source>
+<dc:title><![CDATA[The Commodore Apartments, Minutes to Downtown, Sunny, Great Storage! (Minneapolis) &#x0024;795 375ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00t0t_8a2bv0AFPX6_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-12T17:02:42-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6147585017.html">
+<title><![CDATA[Affordable ($795+) Downtown living in Loring Park!! (Loring Park - Downtown) &#x0024;795 255ft<sup>2</sup>]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6147585017.html</link>
+<description><![CDATA[The BUCKINGHAM APARTMENTS!!! 
+Sunny and Spacious Studios and One Bedrooms minutes from Loring Park and Downtown MPLS 
+Family-owned and Operated for over 30 years! Built in 1920, originally an upscale residential hotel. The Buckingham Apartments is ne [...]]]></description>
+<dc:date>2017-06-12T17:02:32-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6147585017.html</dc:source>
+<dc:title><![CDATA[Affordable ($795+) Downtown living in Loring Park!! (Loring Park - Downtown) &#x0024;795 255ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00n0n_cDrb4dWq0ZE_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-12T17:02:32-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6173985898.html">
+<title><![CDATA[Uptown--3 blocks to Calhoun (3332 Hennepin Avenue) &#x0024;975 1bd]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6173985898.html</link>
+<description><![CDATA[Beautiful second floor 1 bedroom unit has hardwood floors, lots of light and open kitchen just a couple of blocks to Lake Calhoun. 
+You can't beat the location of the wonderful brick building at 3332 Hennepin Avenue within walking distance of the lak [...]]]></description>
+<dc:date>2017-06-12T16:06:43-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6173985898.html</dc:source>
+<dc:title><![CDATA[Uptown--3 blocks to Calhoun (3332 Hennepin Avenue) &#x0024;975 1bd]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00L0L_h3ExM1k1iWq_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-12T16:06:43-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6173944171.html">
+<title><![CDATA[Uptown - Lake of Isles with Fiber Internet Included! (2524 Hennepin) &#x0024;880 1bd 650ft<sup>2</sup>]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6173944171.html</link>
+<description><![CDATA[Corner one bedroom apartment with six windows in 1920 vintage brownstone available for August 1. Walk through the neighborhood to the Lake of the Isles and Uptown! 
+The apartment features a full living room, dining room with built in buffet, and hard [...]]]></description>
+<dc:date>2017-06-12T15:40:05-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6173944171.html</dc:source>
+<dc:title><![CDATA[Uptown - Lake of Isles with Fiber Internet Included! (2524 Hennepin) &#x0024;880 1bd 650ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00w0w_dXDDf9ZwZx9_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-12T15:40:05-05:00</dcterms:issued>
+</item>
+<item rdf:about="http://minneapolis.craigslist.org/hnp/apa/6163128399.html">
+<title><![CDATA[Beautifully Updated One-Bedroom close to Downtown (615 E 16th St) &#x0024;965 1bd 575ft<sup>2</sup>]]></title>
+<link>http://minneapolis.craigslist.org/hnp/apa/6163128399.html</link>
+<description><![CDATA[Spacious One-bedroom with an open floor plan 
+First floor unit 
+Carpet throughout 
+Built-in Closets 
+Glass stand-up shower 
+Exposed Brick! 
+Updated Appliances 
+Gas Stove 
+Built in Microwave 
+Utilities NOT included- average $50/mo extra 
+$40 applicati [...]]]></description>
+<dc:date>2017-06-12T15:24:41-05:00</dc:date>
+<dc:language>en-us</dc:language>
+<dc:rights>copyright 2017 craiglist</dc:rights>
+<dc:source>http://minneapolis.craigslist.org/hnp/apa/6163128399.html</dc:source>
+<dc:title><![CDATA[Beautifully Updated One-Bedroom close to Downtown (615 E 16th St) &#x0024;965 1bd 575ft<sup>2</sup>]]></dc:title>
+<dc:type>text</dc:type>
+<enc:enclosure resource="https://images.craigslist.org/00F0F_felOYmqv5Rg_300x300.jpg" type="image/jpeg"/>
+<dcterms:issued>2017-06-12T15:24:41-05:00</dcterms:issued>
+</item>
+</rdf:RDF>
