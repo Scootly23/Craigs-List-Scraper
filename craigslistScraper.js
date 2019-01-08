@@ -1,5 +1,5 @@
 //------------- Edit personal preferences here -----------------//
-var phone = "6518953064"
+var phone = "5550123"
 var provider = "@vtext.com" //Verizon
 // var provider = "@txt.att.net" //At&t
 // var provider = "@tmomail.net" //Tmobile
